@@ -1,0 +1,54 @@
+{
+     "courses" : [
+        {
+            "id": 1,
+            "title": "PGDCA Fundamentals",
+            "slug": "pgdca-fundamentals",
+            "description": "Master the essentials of Post Graduate Diploma in Computer Applications (PGDCA) with our comprehensive course.",
+            "price": 299.99,
+            "instructor": "Jane Smith",
+            "isFeatured": true,
+            "image": "https://www.techinaut.edu.in/wp-content/uploads/2019/07/TECHINAUT-PGDCA-POST-GRADUATE-DIPLOMA-IN-COMPUTER-APPLICATION-007.jpg"
+          },
+          {
+            "id": 2,
+            "title": "Tally ERP 9 Basics",
+            "slug": "tally-erp-9-basics",
+            "description": "Get hands-on experience with Tally ERP 9 and understand its core functionalities in this beginner's course.",
+            "price": 199.99,
+            "instructor": "John Doe",
+            "isFeatured": false,
+            "image": "https://miro.medium.com/v2/resize:fit:851/1*ru8rtG1qq6kSosYyr1O5JQ.jpeg"
+          },
+          {
+            "id": 3,
+            "title": "Excel Mastery",
+            "slug": "excel-mastery",
+            "description": "Become proficient in Microsoft Excel with advanced techniques and practical exercises.",
+            "price": 149.99,
+            "instructor": "Emily Johnson",
+            "isFeatured": true,
+            "image": "https://static-00.iconduck.com/assets.00/ms-excel-icon-512x506-kad3cmyu.png"
+          },
+          {
+            "id": 4,
+            "title": "HTML for Beginners",
+            "slug": "html-for-beginners",
+            "description": "Learn the basics of HTML and build the foundation for web development.",
+            "price": 99.99,
+            "instructor": "Michael Brown",
+            "isFeatured": true,
+            "image": "https://mgearon.com/wp-content/uploads/2015/07/HTML5-Logo.jpg"
+          },
+          {
+            "id": 5,
+            "title": "MS Word Essentials",
+            "slug": "ms-word-essentials",
+            "description": "Master Microsoft Word and improve your document creation skills with this essential course.",
+            "price": 89.99,
+            "instructor": "Sarah Lee",
+            "isFeatured": false,
+            "image": "/courses/msword.jpg"
+          }
+      ]
+}
